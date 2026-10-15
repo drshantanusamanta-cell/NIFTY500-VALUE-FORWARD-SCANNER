@@ -1,0 +1,21 @@
+{
+  "run_at_ist": "2026-10-15 07:06 IST",
+  "universe": "Nifty 500",
+  "universe_source": "downloaded from https://nsearchives.nseindia.com/content/indices/ind_nifty500list.csv",
+  "symbols": 501,
+  "info_ok": 499,
+  "info_failed": [
+    "BAGMANE",
+    "DUMMYHEG"
+  ],
+  "info_stale": [],
+  "fundamentals_refreshed": 2,
+  "verdict_counts": {
+    "Not cheap": 351,
+    "Prime": 65,
+    "Value trap risk": 43,
+    "Value-Watch": 38,
+    "Data: Thin": 4
+  },
+  "seconds": 436
+}
